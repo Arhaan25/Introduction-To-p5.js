@@ -1,0 +1,18 @@
+.lacted {
+    font-size: 25px !important;
+    background-color: red;
+    color: orange;
+}
+
+canvas {
+    border: 5px line black;
+}
+
+body {
+    background-image: linear-gradient(to left bottom, darkred, red, orange, darkorange, yellow,rgb(92, 92, 0), darkgreen, green, blue, darkblue, rgb(82, 0, 82), purple, darkviolet, violet, pink, rgb(104, 38, 49), rgb(107, 18, 18), brown, black, gray, darkgray, lightgray, white);
+}
+
+.ent {
+    background-color: green;
+    color: yellow;
+}
